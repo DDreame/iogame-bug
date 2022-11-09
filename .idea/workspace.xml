@@ -4,41 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73813814-5004-486b-992f-a3d302b076bc" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/example/common/GameCodeEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/example/common/GameProtoFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/example/common/GenerateFileForProto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/example/common/SendDoc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/example/common/cmd/LoginVerifyModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/example/common/cmd/MainCmdModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/example/common/pb/LoginRequestPb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/example/common/pb/ResultPb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/example/common/utils/JsonUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-all-in-one/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-all-in-one/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-broker/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-broker/src/main/java/org/example/game/broker/GameBrokerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-broker/src/main/java/org/example/game/broker/GameBrokerBoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-broker/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-external/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-external/src/main/java/org/example/game/external/GameExternal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-external/src/main/java/org/example/game/external/GameExternalApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-external/src/main/java/org/example/game/external/core/MyIdleProcessConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-external/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-logic/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-logic/src/main/java/org/example/game/logic/action/LoginAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-logic/src/main/java/org/example/game/logic/core/MyBarSkeletonConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-logic/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="73813814-5004-486b-992f-a3d302b076bc" name="变更" comment="commit">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/org/example/common/GameCodeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/org/example/common/GameCodeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/org/example/common/GameProtoFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/org/example/common/GameProtoFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/org/example/common/GenerateFileForProto.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/org/example/common/GenerateFileForProto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/org/example/common/SendDoc.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/org/example/common/SendDoc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/org/example/common/cmd/LoginVerifyModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/org/example/common/cmd/LoginVerifyModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/org/example/common/cmd/MainCmdModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/org/example/common/cmd/MainCmdModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/org/example/common/pb/LoginRequestPb.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/org/example/common/pb/LoginRequestPb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/org/example/common/pb/ResultPb.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/org/example/common/pb/ResultPb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/org/example/common/utils/JsonUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/org/example/common/utils/JsonUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-all-in-one/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/game-all-in-one/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-broker/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/game-broker/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-broker/src/main/java/org/example/game/broker/GameBrokerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/game-broker/src/main/java/org/example/game/broker/GameBrokerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-broker/src/main/java/org/example/game/broker/GameBrokerBoot.java" beforeDir="false" afterPath="$PROJECT_DIR$/game-broker/src/main/java/org/example/game/broker/GameBrokerBoot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-external/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/game-external/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-external/src/main/java/org/example/game/external/GameExternal.java" beforeDir="false" afterPath="$PROJECT_DIR$/game-external/src/main/java/org/example/game/external/GameExternal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-external/src/main/java/org/example/game/external/GameExternalApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/game-external/src/main/java/org/example/game/external/GameExternalApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-external/src/main/java/org/example/game/external/core/MyIdleProcessConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/game-external/src/main/java/org/example/game/external/core/MyIdleProcessConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-logic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/game-logic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-logic/src/main/java/org/example/game/logic/action/LoginAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/game-logic/src/main/java/org/example/game/logic/action/LoginAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-logic/src/main/java/org/example/game/logic/core/MyBarSkeletonConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/game-logic/src/main/java/org/example/game/logic/core/MyBarSkeletonConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,8 +156,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667984275675</updated>
-      <workItem from="1667984276912" duration="2050000" />
+      <workItem from="1667984276912" duration="2409000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1667986620689</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667986620689</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,5 +181,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
