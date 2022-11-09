@@ -1,4 +1,4 @@
-package com.worrior.common.cmd;
+package org.example.common.cmd;
 
 /***
  * 登陆相关模块Cmd

@@ -1,11 +1,10 @@
-package com.example.game.logic.core;
+package org.example.game.logic.core;
 
 import com.iohao.game.action.skeleton.core.BarSkeletonBuilder;
 import com.iohao.game.action.skeleton.core.BarSkeletonBuilderParamConfig;
 import com.iohao.game.action.skeleton.core.flow.interal.DebugInOut;
-import com.worrior.common.GameCodeEnum;
-import com.worrior.game.action.skleton.core.flow.MyFlowContext;
 import lombok.experimental.UtilityClass;
+import org.example.common.GameCodeEnum;
 
 /**
  * @author 梦某人
@@ -32,8 +31,8 @@ public class MyBarSkeletonConfig {
         return config.createBuilder()
                 // 添加控制台输出插件
                 .addInOut(new DebugInOut())
-                // 设置一个自定义的 flow 上下文生产工厂
-                .setFlowContextFactory(MyFlowContext::new)
+//                // 设置一个自定义的 flow 上下文生产工厂
+//                .setFlowContextFactory(MyFlowContext::new)
                 ;
     }
 }

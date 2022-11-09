@@ -1,4 +1,4 @@
-package com.example.game.external;
+package org.example.game.external;
 
 import com.iohao.game.bolt.broker.client.external.ExternalServer;
 

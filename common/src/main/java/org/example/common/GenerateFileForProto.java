@@ -1,4 +1,4 @@
-package com.worrior.common;
+package org.example.common;
 
 import cn.hutool.core.util.ArrayUtil;
 import cn.hutool.system.SystemUtil;

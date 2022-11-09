@@ -1,4 +1,4 @@
-package com.worrior.common;
+package org.example.common;
 
 /**
  * @author 梦某人

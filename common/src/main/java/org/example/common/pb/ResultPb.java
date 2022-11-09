@@ -1,10 +1,10 @@
-package com.worrior.common.pb;
+package org.example.common.pb;
 
 import com.baidu.bjf.remoting.protobuf.annotation.ProtobufClass;
 import com.iohao.game.widget.light.protobuf.ProtoFileMerge;
-import com.worrior.common.GameProtoFile;
 import lombok.AccessLevel;
 import lombok.experimental.FieldDefaults;
+import org.example.common.GameProtoFile;
 
 /***
  * 操作是否成功的返回

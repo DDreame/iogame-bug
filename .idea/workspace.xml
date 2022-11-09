@@ -5,6 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73813814-5004-486b-992f-a3d302b076bc" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/example/common/GameCodeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/example/common/GameProtoFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/example/common/GenerateFileForProto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/example/common/SendDoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/example/common/cmd/LoginVerifyModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/example/common/cmd/MainCmdModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/example/common/pb/LoginRequestPb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/example/common/pb/ResultPb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/example/common/utils/JsonUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game-all-in-one/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game-all-in-one/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game-broker/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game-broker/src/main/java/org/example/game/broker/GameBrokerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game-broker/src/main/java/org/example/game/broker/GameBrokerBoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game-broker/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game-external/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game-external/src/main/java/org/example/game/external/GameExternal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game-external/src/main/java/org/example/game/external/GameExternalApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game-external/src/main/java/org/example/game/external/core/MyIdleProcessConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game-external/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game-logic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game-logic/src/main/java/org/example/game/logic/action/LoginAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game-logic/src/main/java/org/example/game/logic/core/MyBarSkeletonConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game-logic/src/main/resources/logback.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,8 +45,18 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HIt9FiZ1KVPAQQGBrXUHymTLBx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -25,10 +68,96 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "last_opened_file_path": "/Users/xinchen/GithubProjects/bugDemo/common/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/common/src/main/resources" />
+      <recent name="$PROJECT_DIR$/common/src/main/java/org/example/common" />
+      <recent name="$PROJECT_DIR$/common/src/main/java/org/example/common/cmd" />
+      <recent name="$PROJECT_DIR$/game-external/src/main/java/com/example/game/external" />
+      <recent name="$PROJECT_DIR$/game-all-in-one" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.common.pb" />
+      <recent name="org.example.game.logic.action" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RunOne">
+    <configuration name="GameBrokerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.game.broker.GameBrokerApplication" />
+      <module name="game-broker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.game.broker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameExternalApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.game.external.GameExternalApplication" />
+      <module name="game-external" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.game.external.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenerateFileForProto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.common.GenerateFileForProto" />
+      <module name="common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunOne" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="game-all-in-one" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.game.allinone.RunOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.game.allinone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.RunOne" />
+        <item itemvalue="应用程序.GenerateFileForProto" />
+        <item itemvalue="应用程序.GameExternalApplication" />
+        <item itemvalue="应用程序.GameBrokerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -37,8 +166,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667984275675</updated>
+      <workItem from="1667984276912" duration="2050000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

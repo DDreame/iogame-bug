@@ -1,8 +1,4 @@
-package com.worrior.common;
-
-import com.iohao.game.action.skeleton.annotation.DocActionSend;
-import com.iohao.game.action.skeleton.annotation.DocActionSends;
-import com.worrior.common.cmd.MainCmdModule;
+package org.example.common;
 
 /**
  * @author 梦某人

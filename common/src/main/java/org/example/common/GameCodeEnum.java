@@ -1,4 +1,4 @@
-package com.worrior.common;
+package org.example.common;
 
 import com.iohao.game.action.skeleton.core.exception.MsgExceptionInfo;
 import lombok.AccessLevel;

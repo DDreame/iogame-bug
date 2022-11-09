@@ -1,4 +1,4 @@
-package com.example.game.external.core;
+package org.example.game.external.core;
 
 import com.iohao.game.bolt.broker.client.external.bootstrap.heart.IdleProcessSetting;
 import lombok.experimental.UtilityClass;

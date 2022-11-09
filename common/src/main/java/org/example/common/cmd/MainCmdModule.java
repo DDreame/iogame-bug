@@ -1,4 +1,4 @@
-package com.worrior.common.cmd;
+package org.example.common.cmd;
 
 /**
  * 这里存放所有的模块 主CMD
@@ -8,8 +8,4 @@ package com.worrior.common.cmd;
 public interface MainCmdModule {
     /**  用户模块 */
     int loginVerify = 1;
-    /**  存档模块 */
-    int archive = 2;
-    /**  其他模块 */
-    int other = 3;
 }

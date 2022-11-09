@@ -1,4 +1,4 @@
-package com.example.game.broker;
+package org.example.game.broker;
 
 import com.iohao.game.bolt.broker.server.BrokerServer;
 

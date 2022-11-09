@@ -1,4 +1,4 @@
-package com.example.game.external;
+package org.example.game.external;
 
 import com.iohao.game.bolt.broker.client.external.ExternalServer;
 import com.iohao.game.bolt.broker.client.external.ExternalServerBuilder;
@@ -6,7 +6,7 @@ import com.iohao.game.bolt.broker.client.external.bootstrap.ExternalJoinEnum;
 import com.iohao.game.bolt.broker.client.external.config.ExternalGlobalConfig;
 import com.iohao.game.bolt.broker.core.client.BrokerAddress;
 import com.iohao.game.bolt.broker.core.common.BrokerGlobalConfig;
-import com.example.game.external.core.MyIdleProcessConfig;
+import org.example.game.external.core.MyIdleProcessConfig;
 
 /**
  *
